@@ -1,3 +1,3 @@
 # Landing-page
 
-#112F44
+First commit wohooooooooooooo
